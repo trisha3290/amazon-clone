@@ -1,0 +1,3 @@
+* {
+  margin:0; /*react has it's own some default margin ,therefore , margin should be set to zero*/
+}
